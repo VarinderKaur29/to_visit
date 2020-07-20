@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final Assignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_favourite_place_found">No favourite place found</string>
+    <string name="find">Find</string>
+    <string name="choose_map_type">Choose Map Type</string>
+    <string name="get_direction">Get Direction</string>
+</resources>

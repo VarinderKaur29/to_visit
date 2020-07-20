@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="typesofmaps">
+        <item>Choose Map Type</item>
+        <item>Hybrid</item>
+        <item>Default</item>
+        <item>Terrain</item>
+        <item>Satellite</item>
+
+    </string-array>
+</resources>
